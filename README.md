@@ -1,6 +1,6 @@
 # Tabber
 ------------
-I am not edditing this project anymore
+I am not working this project anymore
 
 If you are intreseted go check out [TabberV2](https://github.com/InvisibleCatA1/TabberV2)
 
